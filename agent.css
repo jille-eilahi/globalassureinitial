@@ -1,0 +1,71 @@
+
+
+
+/*
+div{
+    position: center;
+background-color: blue;
+font: bolder;
+height: 100px;
+}*/
+
+span{position: center;
+    border-color: black;
+    margin-left:5%;
+    padding-top: 5%;
+}
+
+header{color: white; 
+    height: 5px;
+text-decoration: solid;
+background-color:#002B5B;
+margin-top:1%;
+padding:4%;
+font-size: large;
+text-decoration-color: white;
+}
+
+a{
+    color: #F9F5EB;
+    text-decoration: none;
+}
+
+body{
+    background-color: #F9F5EB;
+    
+}
+
+/*header CSS complete for all pages */
+
+/*agent table CSS*/
+
+
+.agent-selectiontab{margin-left: 20%}
+
+.service-type{text-align: center;
+size: 200px;}
+
+.vendor1{
+    float: left;
+    margin-left: 15px;
+}
+
+th{justify-content: space-between;
+width: 300px;
+border:solid;
+background-color:aqua;}
+
+table{
+    border:solid;
+    margin: 0%;
+
+}
+
+td{text-align: center;
+    border: solid;
+    border-width: 1px;
+    border-color: #002B5B;
+}
+.global-assure{width:1500px;
+height: 635px;}
+
